@@ -1,0 +1,8 @@
+body{
+    background-color: #eaeaea;
+}
+.link {
+    fill: none;
+    stroke: #777;
+    stroke-width: 2px;
+}
